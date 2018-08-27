@@ -1,0 +1,167 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930M (ID=0x1346)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.256 seconds
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\IT\Unity_Projects\ShootingSurvival\ShootingSurvival\Builds\ShootingSurvival_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.050772 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19b8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.347273 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.568889 ms (FindLiveObjects: 0.053333 ms CreateObjectMapping: 0.034370 ms MarkObjects: 0.459457 ms  DeleteObjects: 0.020938 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.364685 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.997927 ms (FindLiveObjects: 0.407309 ms CreateObjectMapping: 0.054123 ms MarkObjects: 0.510420 ms  DeleteObjects: 0.024493 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.452346 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.306963 ms (FindLiveObjects: 0.033580 ms CreateObjectMapping: 0.022123 ms MarkObjects: 0.238222 ms  DeleteObjects: 0.011851 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 720.916626 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 5.562080 ms (FindLiveObjects: 5.268944 ms CreateObjectMapping: 0.024493 ms MarkObjects: 0.257580 ms  DeleteObjects: 0.010271 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.308445 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 1.151606 ms (FindLiveObjects: 0.094024 ms CreateObjectMapping: 0.075851 ms MarkObjects: 0.941038 ms  DeleteObjects: 0.038321 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.514399 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.918124 ms (FindLiveObjects: 0.230716 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.626963 ms  DeleteObjects: 0.019358 ms)
+
+ConvexHullBuilder: convex hull has more than 255 polygons!
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 1479)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "mesh_Head". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.512790 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 966.
+Total: 0.578371 ms (FindLiveObjects: 0.050172 ms CreateObjectMapping: 0.032000 ms MarkObjects: 0.480395 ms  DeleteObjects: 0.015012 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.316063 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1095.
+Total: 1.060741 ms (FindLiveObjects: 0.110617 ms CreateObjectMapping: 0.082963 ms MarkObjects: 0.801976 ms  DeleteObjects: 0.064000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.102648 ms
+
+Unloading 138 unused Assets to reduce memory usage. Loaded Objects now: 1073.
+Total: 1.742224 ms (FindLiveObjects: 0.141037 ms CreateObjectMapping: 0.114172 ms MarkObjects: 1.415902 ms  DeleteObjects: 0.069530 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.187286 ms
+
+Unloading 269 unused Assets to reduce memory usage. Loaded Objects now: 1072.
+Total: 1.921582 ms (FindLiveObjects: 0.127210 ms CreateObjectMapping: 0.139061 ms MarkObjects: 1.008988 ms  DeleteObjects: 0.644741 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.062931 ms
+
+Unloading 270 unused Assets to reduce memory usage. Loaded Objects now: 1074.
+Total: 1.616594 ms (FindLiveObjects: 0.073876 ms CreateObjectMapping: 0.080197 ms MarkObjects: 1.188742 ms  DeleteObjects: 0.273383 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.402987 ms
+
+Unloading 269 unused Assets to reduce memory usage. Loaded Objects now: 1076.
+Total: 0.722568 ms (FindLiveObjects: 0.096395 ms CreateObjectMapping: 0.062814 ms MarkObjects: 0.477235 ms  DeleteObjects: 0.084543 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.619476 ms
+
+Unloading 399 unused Assets to reduce memory usage. Loaded Objects now: 1061.
+Total: 0.800396 ms (FindLiveObjects: 0.112592 ms CreateObjectMapping: 0.066370 ms MarkObjects: 0.462222 ms  DeleteObjects: 0.158419 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 74.637909 ms
+
+Unloading 384 unused Assets to reduce memory usage. Loaded Objects now: 1196.
+Total: 0.732050 ms (FindLiveObjects: 0.124839 ms CreateObjectMapping: 0.065580 ms MarkObjects: 0.453926 ms  DeleteObjects: 0.086913 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ZombieController.ShootenAnim (Boolean isShooten) [0x00000] in <filename unknown>:0 
+  at ZombieController.set_IsShooten (Boolean value) [0x00000] in <filename unknown>:0 
+  at ZombieController.GetHit (Int32 dmg) [0x00000] in <filename unknown>:0 
+  at PlayerController.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.211567 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2133.
+Total: 1.105384 ms (FindLiveObjects: 0.127210 ms CreateObjectMapping: 0.116543 ms MarkObjects: 0.845828 ms  DeleteObjects: 0.015407 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.407646 ms
+
+Unloading 1304 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 2.022718 ms (FindLiveObjects: 0.138271 ms CreateObjectMapping: 0.140247 ms MarkObjects: 0.527803 ms  DeleteObjects: 1.215606 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.580589 ms
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 967.
+Total: 2.311903 ms (FindLiveObjects: 0.096395 ms CreateObjectMapping: 0.069135 ms MarkObjects: 0.652247 ms  DeleteObjects: 1.492544 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.390818 ms
+
+Unloading 327 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 4.651857 ms (FindLiveObjects: 0.116148 ms CreateObjectMapping: 0.156049 ms MarkObjects: 0.694914 ms  DeleteObjects: 3.682769 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 73.157219 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.907062 ms (FindLiveObjects: 0.599309 ms CreateObjectMapping: 0.024098 ms MarkObjects: 0.271802 ms  DeleteObjects: 0.010666 ms)
+
